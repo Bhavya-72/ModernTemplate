@@ -1,0 +1,1 @@
+$('#anim').textillate({ in: { effect: 'fadeInUp' } });
